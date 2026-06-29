@@ -46,7 +46,7 @@ Lab 02: SQL Injection Vulnerability Allowing Login Bypass
 
 ## Key Learning
 
-- SQL injection vulnerabilities in login forms can allow attackers to bypass authentication and gain unauthorized access to acounts.
+- SQL injection vulnerabilities in login forms can allow attackers to bypass authentication and gain unauthorized access to accounts.
 
 ## Lab Status
 
