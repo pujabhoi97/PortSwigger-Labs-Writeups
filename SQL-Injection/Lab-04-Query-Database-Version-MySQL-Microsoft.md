@@ -3,7 +3,7 @@ Lab 04: SQL Injection Attack, Querying The Database Type And Version On MySQL An
 ## Lab Details
 
 - Catagory: SQL Injection 
-- Difficulty: Apprentice
+- Difficulty: Practitioner
 
 ## Objective 
 
