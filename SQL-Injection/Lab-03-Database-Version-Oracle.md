@@ -3,7 +3,7 @@ Lab 03: SQL Injection Attack, Querying The Database Type And Version On Oracle
 ## Lab Details
 
 - Catagory: SQL Injection
-- Difficulty: Apprentice 
+- Difficulty: Practitioner
 
 ## Objective
 
