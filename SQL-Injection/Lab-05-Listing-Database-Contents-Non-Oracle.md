@@ -3,7 +3,7 @@ Lab 05: SQL Injection Attack, Listing The Database Contents On Non-Oracle Databa
 ## Lab Details
 
 - Catagory: SQL Injection
-- Difficulty: Apprentice
+- Difficulty: Practitioner
 
 ## Objective 
 
