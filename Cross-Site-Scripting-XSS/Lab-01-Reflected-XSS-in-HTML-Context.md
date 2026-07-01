@@ -23,19 +23,19 @@ Lab 01: Reflected XSS into HTML Context With Nothing Encoded
 
 Step 1: Enter a Test Payload
 
-In the search box, enter:
+- In the search box, enter:
 
-<script>alert(1)</script>
+  <script>alert(1)</script>
 
 Step 2: Submit the Search
 
-Click the search button or press Enter.
+- Click the search button or press Enter.
 
 Step 3: Observe the Response
 
-The payload is reflected in the page and executed by the browser.
+- The payload is reflected in the page and executed by the browser.
 
-An alert box appears, demonstrating successful JavaScript execution.
+- An alert box appears, demonstrating successful JavaScript execution.
 
 ## Result
 
@@ -59,4 +59,4 @@ An alert box appears, demonstrating successful JavaScript execution.
 - Reflected XSS occurs when user input is immediately returned in the application's response without proper encoding or sanitization.
 
 ## Lab Status
--Solved✅ 
+- Solved✅ 
